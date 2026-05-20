@@ -22,7 +22,6 @@
 - 支持帖子发布、更新后的自动提交
 - 支持手动提交、最近内容补扫、批量预览与逐条提交
 - 支持提交日志、状态筛选、行内重试和诊断面板
-- 发布包只包含插件源码和文档，不夹带站点运行数据或敏感配置
 
 [查看仓库](https://github.com/zuelu/LightSNS_IndexNow_-) · [下载 v1.0.0](https://github.com/zuelu/LightSNS_IndexNow_-/releases/tag/v1.0.0)
 
@@ -32,7 +31,6 @@
 
 - 支持首页、搜索页、视频流、公开板块、热门标签、公开帖子收录
 - 支持后台管理员手动重建和定时任务自动重建
-- 发布包只包含插件源码，不夹带站点运行数据或敏感配置
 
 [查看仓库](https://github.com/zuelu/LightSNS_sitemap) · [下载 v1.0.0](https://github.com/zuelu/LightSNS_sitemap/releases/tag/v1.0.0)
 
@@ -59,7 +57,6 @@
 
 - 工具要能解决真实问题
 - 文档要能让用户少踩坑
-- 发布包要和运行数据、敏感配置分开
 - 独立模块尽量不侵入主程序
 - 代码可以朴素，但边界要清楚
 
