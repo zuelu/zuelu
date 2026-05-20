@@ -8,11 +8,23 @@
 
 - 网站工具与站点维护脚本
 - LightSNS 插件和独立模块
+- 搜索引擎收录、Sitemap、IndexNow 自动提交
 - 远程文件同步与部署流程
 - PHP 后端、服务器运维、发布包整理
 - 面向站长和个人开发者的实用工具
 
 ## 代表项目
+
+### LightSNS IndexNow 自动提交模块
+
+一个面向 LightSNS PC 端的独立页面模块，用于维护 IndexNow Key 验证文件，并自动向 IndexNow 提交站内内容 URL。
+
+- 支持帖子发布、更新后的自动提交
+- 支持手动提交、最近内容补扫、批量预览与逐条提交
+- 支持提交日志、状态筛选、行内重试和诊断面板
+- 发布包只包含插件源码和文档，不夹带站点运行数据或敏感配置
+
+[查看仓库](https://github.com/zuelu/LightSNS_IndexNow_-) · [下载 v1.0.0](https://github.com/zuelu/LightSNS_IndexNow_-/releases/tag/v1.0.0)
 
 ### LightSNS 网站地图 Sitemap 模块
 
@@ -55,4 +67,3 @@
 
 - 网站：[czzz.ru](https://czzz.ru)
 - Telegram：[@czzzru](https://t.me/czzzru)
-
