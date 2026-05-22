@@ -23,7 +23,7 @@
 - 支持手动提交、最近内容补扫、批量预览与逐条提交
 - 支持提交日志、状态筛选、行内重试和诊断面板
 
-[查看仓库](https://github.com/zuelu/LightSNS_IndexNow_-) · [下载 v1.0.0](https://github.com/zuelu/LightSNS_IndexNow_-/releases/tag/v1.0.0)
+[查看仓库](https://github.com/zuelu/LightSNS_IndexNow_-) · [下载 v1.0.1](https://github.com/zuelu/LightSNS_IndexNow_-/releases/tag/v1.0.1)
 
 ### LightSNS 网站地图 Sitemap 模块
 
@@ -32,7 +32,7 @@
 - 支持首页、搜索页、视频流、公开板块、热门标签、公开帖子收录
 - 支持后台管理员手动重建和定时任务自动重建
 
-[查看仓库](https://github.com/zuelu/LightSNS_sitemap) · [下载 v1.0.0](https://github.com/zuelu/LightSNS_sitemap/releases/tag/v1.0.0)
+[查看仓库](https://github.com/zuelu/LightSNS_sitemap) · [下载 v1.0.1](https://github.com/zuelu/LightSNS_sitemap/releases/tag/v1.0.1)
 
 ### 多协议远程自动同步工具
 
@@ -62,5 +62,7 @@
 
 ## 联系方式
 
+- 作者：云遮天
 - 网站：[czzz.ru](https://czzz.ru)
 - Telegram：[@czzzru](https://t.me/czzzru)
+- QQ：80795151
