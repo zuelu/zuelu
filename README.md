@@ -8,12 +8,22 @@
 
 - 网站工具与站点维护脚本
 - LightSNS 插件和独立模块
-- 搜索引擎收录、Sitemap、IndexNow 自动提交
+- AI 可发现性、搜索引擎收录、Sitemap、IndexNow 自动提交
 - 远程文件同步与部署流程
 - PHP 后端、服务器运维、发布包整理
 - 面向站长和个人开发者的实用工具
 
 ## 代表项目
+
+### LightSNS AI 可发现性增强工具
+
+一个面向 LightSNS PC 端的独立页面模块，用于生成 AI 友好的发现性文件，并管理 AI Bot 访问策略。
+
+- 支持生成 llms.txt、ai-sitemap.xml、schema.jsonld
+- 支持 Product、Offer、Brand、BreadcrumbList、WebSite 等结构化数据
+- 支持 AI Bot 策略配置和 robots.txt 规则管理
+
+[查看仓库](https://github.com/zuelu/LightSNS_czzz_pc_page_ai_seo) · [下载 v1.0.0](https://github.com/zuelu/LightSNS_czzz_pc_page_ai_seo/releases/tag/v1.0.0)
 
 ### LightSNS IndexNow 自动提交模块
 
