@@ -15,6 +15,17 @@
 
 ## 代表项目
 
+### LightSNS 推广广告位小工具
+
+一个面向 LightSNS PC 端的小工具模块，用于在多个页面位置集中配置、售卖、审核和展示推广广告位。
+
+- 支持图片广告位和文字广告位
+- 支持独立广告管理页，集中配置价格、说明、文案和槽位状态
+- 支持前台购买、后台审核、广告上下架、订单管理和点击统计
+- 图片广告使用上传方式提交，限制 200KB 以内，提升前台加载体验
+
+[查看仓库](https://github.com/zuelu/LightSNS_czzz_pc_widget_promotion_ad) · [下载 v1.0.0](https://github.com/zuelu/LightSNS_czzz_pc_widget_promotion_ad/releases/tag/v1.0.0)
+
 ### LightSNS AI 可发现性增强工具
 
 一个面向 LightSNS PC 端的独立页面模块，用于生成 AI 友好的发现性文件，并管理 AI Bot 访问策略。
