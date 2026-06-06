@@ -12,8 +12,21 @@
 - 远程文件同步与部署流程
 - PHP 后端、服务器运维、发布包整理
 - 面向站长和个人开发者的实用工具
+- Windows 桌面端小工具
 
 ## 代表项目
+
+### 微软商店 MSIX 管理器
+
+一个 Windows 桌面端 MSIX/AppX 下载与安装工具，适合 Windows Server、精简版 Windows 或无法直接使用 Microsoft Store 的环境。
+
+- 支持输入 Microsoft Store 应用 ID 或应用链接
+- 支持查询已安装版本、云端最新版本和本地已下载版本
+- 支持下载、安装、更新免费公开应用
+- 支持右键安装本地历史安装包
+- 安装前会尝试停止目标应用残留进程，安装失败时显示诊断信息
+
+[查看仓库](https://github.com/zuelu/msstore-msix-manager) · [下载 v1.0.0](https://github.com/zuelu/msstore-msix-manager/releases/tag/v1.0.0)
 
 ### LightSNS 推广广告位小工具
 
