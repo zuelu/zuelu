@@ -6,7 +6,7 @@
 
 ## 我在做什么
 
-- 网站工具与站点维护脚本
+- 网站工具、站点维护脚本
 - LightSNS 插件和独立模块
 - AI 可发现性、搜索引擎收录、Sitemap、IndexNow 自动提交
 - 远程文件同步与部署流程
@@ -14,19 +14,28 @@
 - 面向站长和个人开发者的实用工具
 - Windows 桌面端小工具
 
-## 代表项目
+## 代表项目 / Featured Projects
 
-### 微软商店 MSIX 管理器
+### 微软商店 MSIX 管理器 / Microsoft Store MSIX Manager
 
 一个 Windows 桌面端 MSIX/AppX 下载与安装工具，适合 Windows Server、精简版 Windows 或无法直接使用 Microsoft Store 的环境。
 
-- 支持输入 Microsoft Store 应用 ID 或应用链接
-- 支持查询已安装版本、云端最新版本和本地已下载版本
-- 支持下载、安装、更新免费公开应用
-- 支持右键安装本地历史安装包
-- 安装前会尝试停止目标应用残留进程，安装失败时显示诊断信息
+A Windows desktop utility for downloading and installing MSIX/AppX packages, useful for Windows Server, lightweight Windows builds, or environments where Microsoft Store is not directly available.
 
-[查看仓库](https://github.com/zuelu/msstore-msix-manager) · [下载 v1.0.0](https://github.com/zuelu/msstore-msix-manager/releases/tag/v1.0.0)
+- 支持输入 Microsoft Store 应用 ID 或应用链接。
+- 支持查询已安装版本、云端最新版本和本地已下载版本。
+- 支持下载、安装、更新免费公开应用。
+- 支持右键安装本地历史安装包。
+- 支持简体中文和英文界面切换。
+- 支持在关于页面检查更新、查看更新日志、下载并手动安装新版本。
+- Enter a Microsoft Store app ID or app link.
+- Check installed, cloud, and local downloaded versions.
+- Download, install, and update free public Store apps.
+- Install historical local packages from the right-click menu.
+- Switch between Simplified Chinese and English.
+- Check updates, view release notes, download updates, and install new versions from the About page.
+
+[查看仓库](https://github.com/zuelu/msstore-msix-manager) · [下载 v1.1.0](https://github.com/zuelu/msstore-msix-manager/releases/tag/v1.1.0)
 
 ### LightSNS 推广广告位小工具
 
@@ -54,7 +63,7 @@
 一个面向 LightSNS PC 端的独立页面模块，用于维护 IndexNow Key 验证文件，并自动向 IndexNow 提交站内内容 URL。
 
 - 支持帖子发布、更新后的自动提交
-- 支持手动提交、最近内容补扫、批量预览与逐条提交
+- 支持手动提交、最近内容补扫、批量预览与单条提交
 - 支持提交日志、状态筛选、行内重试和诊断面板
 
 [查看仓库](https://github.com/zuelu/LightSNS_IndexNow_-) · [下载 v1.0.1](https://github.com/zuelu/LightSNS_IndexNow_-/releases/tag/v1.0.1)
