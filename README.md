@@ -1,4 +1,4 @@
-﻿# 你好，我是 云遮天
+# 你好，我是 云遮天
 
 我喜欢做一些实用型工具：网站维护、服务器部署、LightSNS 模块、远程同步、发布包整理，以及那些能把重复操作变简单的小系统。
 
@@ -28,16 +28,16 @@ A Windows desktop utility for downloading and installing MSIX/AppX packages, use
 - 支持右键安装本地历史安装包。
 - 支持简体中文和英文界面切换。
 - 支持在关于页面检查更新、查看更新日志、下载并手动安装新版本。
-- 优化大文件下载体验，改进中文日志显示。
+- 优化大文件下载体验，下载失败时自动重试并切换备用下载方式，改进中文日志显示。
 - Enter a Microsoft Store app ID or app link.
 - Check installed, cloud, and local downloaded versions.
 - Download, install, and update free public Store apps.
 - Install historical local packages from the right-click menu.
 - Switch between Simplified Chinese and English.
 - Check updates, view release notes, download updates, and install new versions from the About page.
-- Improved large package downloads and Chinese log output.
+- Improved large package downloads with automatic retry and fallback download handling, plus improved Chinese log output.
 
-[查看仓库](https://github.com/zuelu/msstore-msix-manager) · [下载 v1.1.1](https://github.com/zuelu/msstore-msix-manager/releases/tag/v1.1.1)
+[查看仓库](https://github.com/zuelu/msstore-msix-manager) · [下载 v1.1.2](https://github.com/zuelu/msstore-msix-manager/releases/tag/v1.1.2)
 
 ### LightSNS 推广广告位小工具
 
