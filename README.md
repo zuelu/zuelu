@@ -31,6 +31,7 @@ A Windows desktop utility for downloading and installing MSIX/AppX packages, use
 - 支持简体中文和英文界面切换。
 - 支持在关于页面检查更新、查看更新日志、下载并手动安装新版本。
 - 优化大文件下载体验，下载失败时自动重试并切换备用下载方式，改进中文日志显示。
+- 修复部分 Windows 环境启动时 QtCore DLL 加载失败的问题，并增强 EXE 运行库打包兼容性。
 - 安装时会区分真正依赖包和同一应用的历史主包，避免重复包安装错误。
 - Enter a Microsoft Store app ID or app link.
 - Check installed, cloud, and local downloaded versions.
@@ -41,9 +42,10 @@ A Windows desktop utility for downloading and installing MSIX/AppX packages, use
 - Switch between Simplified Chinese and English.
 - Check updates, view release notes, download updates, and install new versions from the About page.
 - Improved large package downloads with automatic retry and fallback download handling, plus improved Chinese log output.
+- Fixed QtCore DLL loading failures on some Windows environments and improved EXE runtime packaging compatibility.
 - Distinguish real dependency packages from historical main packages of the same app during installation to avoid duplicate package deployment errors.
 
-[查看仓库](https://github.com/zuelu/msstore-msix-manager) · [下载 v1.1.5](https://github.com/zuelu/msstore-msix-manager/releases/tag/v1.1.5)
+[查看仓库](https://github.com/zuelu/msstore-msix-manager) · [下载 v1.1.6](https://github.com/zuelu/msstore-msix-manager/releases/tag/v1.1.6)
 
 ### LightSNS 推广广告位小工具
 
