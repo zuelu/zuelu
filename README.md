@@ -26,6 +26,7 @@ A Windows desktop utility for downloading and installing MSIX/AppX packages, use
 - 支持查询已安装版本、云端最新版本和本地已下载版本。
 - 支持下载、安装、更新免费公开应用。
 - 支持右键安装本地历史安装包。
+- 支持在无需访问 Microsoft Store 的情况下安装已校验的本地历史版本，适合离线回退。
 - 支持简体中文和英文界面切换。
 - 支持在关于页面检查更新、查看更新日志、下载并手动安装新版本。
 - 优化大文件下载体验，下载失败时自动重试并切换备用下载方式，改进中文日志显示。
@@ -34,12 +35,13 @@ A Windows desktop utility for downloading and installing MSIX/AppX packages, use
 - Check installed, cloud, and local downloaded versions.
 - Download, install, and update free public Store apps.
 - Install historical local packages from the right-click menu.
+- Install validated local historical versions without contacting Microsoft Store for offline rollback.
 - Switch between Simplified Chinese and English.
 - Check updates, view release notes, download updates, and install new versions from the About page.
 - Improved large package downloads with automatic retry and fallback download handling, plus improved Chinese log output.
 - Distinguish real dependency packages from historical main packages of the same app during installation to avoid duplicate package deployment errors.
 
-[查看仓库](https://github.com/zuelu/msstore-msix-manager) · [下载 v1.1.3](https://github.com/zuelu/msstore-msix-manager/releases/tag/v1.1.3)
+[查看仓库](https://github.com/zuelu/msstore-msix-manager) · [下载 v1.1.4](https://github.com/zuelu/msstore-msix-manager/releases/tag/v1.1.4)
 
 ### LightSNS 推广广告位小工具
 
